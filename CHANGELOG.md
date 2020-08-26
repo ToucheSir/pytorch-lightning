@@ -29,9 +29,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
    * refactored dataloader process hook ([#3139](https://github.com/PyTorchLightning/pytorch-lightning/pull/3139))
    * refactored inner eval loop ([#3141](https://github.com/PyTorchLightning/pytorch-lightning/pull/3141))
    * final inner eval loop hooks ([#3154](https://github.com/PyTorchLightning/pytorch-lightning/pull/3154))
-   * clean up hooks in run_evaluation ([#3156](https://github.com/PyTorchLightning/pytorch-lightning/pull/3156))
+   * clean up hooks in `run_evaluation` ([#3156](https://github.com/PyTorchLightning/pytorch-lightning/pull/3156))
    * clean up data reset ([#3161](https://github.com/PyTorchLightning/pytorch-lightning/pull/3161))
    * expand eval loop out ([#3165](https://github.com/PyTorchLightning/pytorch-lightning/pull/3165))
+   * moved hooks around in eval loop ([#3195](https://github.com/PyTorchLightning/pytorch-lightning/pull/3195))
 
 
 ### Deprecated
